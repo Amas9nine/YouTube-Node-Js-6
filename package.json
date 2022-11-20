@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "N": "node index.js"
+  },
+  "dependencies": {
+    "convert": "^4.7.0"
+  }
+}
